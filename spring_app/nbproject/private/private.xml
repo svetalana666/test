@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/WEB-INF/jsp/showMessage.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>13</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Света/Documents/NetBeansProjects/spring_app/src/java/controller/User.java</file>
+            <file>file:/C:/Users/Света/Documents/NetBeansProjects/spring_app/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/C:/Users/Света/Documents/NetBeansProjects/spring_app/web/WEB-INF/jsp/userView.jsp</file>
+            <file>file:/C:/Users/Света/Documents/NetBeansProjects/spring_app/web/WEB-INF/jsp/messageView.jsp</file>
+            <file>file:/C:/Users/Света/Documents/NetBeansProjects/spring_app/test/controller/MessageControllerTest.java</file>
+            <file>file:/C:/Users/Света/Documents/NetBeansProjects/spring_app/src/java/controller/MessageController.java</file>
+            <file>file:/C:/Users/Света/Documents/NetBeansProjects/spring_app/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/Users/Света/Documents/NetBeansProjects/spring_app/src/java/service/MessageService.java</file>
+        </group>
+    </open-files>
+</project-private>
